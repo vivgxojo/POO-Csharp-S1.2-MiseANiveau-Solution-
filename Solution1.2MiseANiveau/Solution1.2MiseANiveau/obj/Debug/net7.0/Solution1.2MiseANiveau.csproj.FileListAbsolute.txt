@@ -1,0 +1,15 @@
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\obj\Debug\net7.0\Solution1.2MiseANiveau.csproj.AssemblyReference.cache
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\obj\Debug\net7.0\Solution1.2MiseANiveau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\obj\Debug\net7.0\Solution1.2MiseANiveau.AssemblyInfoInputs.cache
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\obj\Debug\net7.0\Solution1.2MiseANiveau.AssemblyInfo.cs
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\obj\Debug\net7.0\Solution1.2MiseANiveau.csproj.CoreCompileInputs.cache
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\bin\Debug\net7.0\Solution1.2MiseANiveau.exe
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\bin\Debug\net7.0\Solution1.2MiseANiveau.deps.json
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\bin\Debug\net7.0\Solution1.2MiseANiveau.runtimeconfig.json
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\bin\Debug\net7.0\Solution1.2MiseANiveau.dll
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\bin\Debug\net7.0\Solution1.2MiseANiveau.pdb
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\obj\Debug\net7.0\Solution1.2MiseANiveau.dll
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\obj\Debug\net7.0\refint\Solution1.2MiseANiveau.dll
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\obj\Debug\net7.0\Solution1.2MiseANiveau.pdb
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\obj\Debug\net7.0\Solution1.2MiseANiveau.genruntimeconfig.cache
+C:\Users\84613.RWIN\Downloads\Maryse\Solution1.2MiseANiveau\Solution1.2MiseANiveau\obj\Debug\net7.0\ref\Solution1.2MiseANiveau.dll
