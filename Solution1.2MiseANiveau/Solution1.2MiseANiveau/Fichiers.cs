@@ -15,17 +15,23 @@ namespace Solution1._2MiseANiveau
         /// <param name="nomFichier">Le nom du fichier choisi</param>
         public static void Ecrire(List<string> liste, string nomFichier)
         {
-            FileStream fs = new FileStream(nomFichier, FileMode.Append, FileAccess.Write);
-            StreamWriter writer = new StreamWriter(fs);
+            try
+            {
+                FileStream fs = new FileStream(nomFichier, FileMode.Append, FileAccess.Write);
+                StreamWriter writer = new StreamWriter(fs);
             
-            // Concatène les éléments de la liste avec des points-virgules et écrit la ligne
-            string ligne = string.Join("; ", liste);
-            writer.WriteLine(ligne);
+                // Concatène les éléments de la liste avec des points-virgules et écrit la ligne
+                string ligne = string.Join("; ", liste);
+                writer.WriteLine(ligne);
 
-            writer.Flush();
-            writer.Close();
-            fs.Close();
-            
+                writer.Flush();
+                writer.Close();
+                fs.Close();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
         }
 
         /// <summary>
